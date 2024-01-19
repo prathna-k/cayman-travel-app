@@ -21,7 +21,7 @@ const Guide = () => {
           </div>
 
           <div className='flex p-2 h-[200%]'>
-            <p className="regular-20 lg:regular-24 text-gray-50 xl:max-w-[490px] ">Elevate your Cayman Islands experience with the Elysian Ways app, your gateway to personalized luxury and relaxation. Seamlessly navigate through a curated selection of resorts and activities tailored to your preferences, ensuring a bespoke getaway. Whether you seek serene beachfront retreats or thrilling underwater adventures, our app ensures there's something for every traveler. Indulge in the epitome of tranquility and opulence, effortlessly discovered through Elysian Ways, your key to an unforgettable escape in the Cayman Islands.</p>
+            <p className="regular-20 lg:regular-24 text-gray-50 xl:max-w-[490px] ">Elevate your Cayman Islands experience with the Elysian Ways app, your gateway to personalized luxury and relaxation. Seamlessly navigate through a curated selection of resorts and activities tailored to your preferences, ensuring a bespoke getaway. Whether you seek serene beachfront retreats or thrilling underwater adventures, our app ensures there is something for every traveler. Indulge in the epitome of tranquility and opulence, effortlessly discovered through Elysian Ways, your key to an unforgettable escape in the Cayman Islands.</p>
           </div>
           
         </div>

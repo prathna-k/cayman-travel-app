@@ -49,10 +49,10 @@ const Camp = () => {
 
           <div className=' p-8 lg:max-w-[500px] xl:max-w-[734] xl:rounded-5xl xl:px-16 xl:py-20 relative w-full overflow-hidden rounded-3xl bg-[#7D8E8E]/50 mb-5'>
             <h2 className='regular-24 md:regular-32 2xl:regular-64 capitalize text-white'>
-              <strong> Don't know </strong> where to start? 
+              <strong> {"Don't know"} </strong> where to start? 
             </h2>
             <p className='regular-16 xl:regular-20 mt-5 text-white'>
-              Discover endless possibilities in the Cayman Islands! Whether you're unwinding on pristine beaches, exploring vibrant coral reefs, or indulging in world-class cuisine, our island paradise offers the perfect blend of relaxation and adventure. Embrace the freedom to create your dream getaway, where every moment is a new opportunity for unforgettable experiences.
+              Discover endless possibilities in the Cayman Islands! Whether you are unwinding on pristine beaches, exploring vibrant coral reefs, or indulging in world-class cuisine, our island paradise offers the perfect blend of relaxation and adventure. Embrace the freedom to create your dream getaway, where every moment is a new opportunity for unforgettable experiences.
             </p>
             <Image
               src="/quote.svg"
